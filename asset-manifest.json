@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/emoji-changer/static/css/main.f5cd5c72.css",
+    "main.js": "/emoji-changer/static/js/main.dedddf9b.js",
+    "static/js/453.401c3195.chunk.js": "/emoji-changer/static/js/453.401c3195.chunk.js",
+    "index.html": "/emoji-changer/index.html",
+    "main.f5cd5c72.css.map": "/emoji-changer/static/css/main.f5cd5c72.css.map",
+    "main.dedddf9b.js.map": "/emoji-changer/static/js/main.dedddf9b.js.map",
+    "453.401c3195.chunk.js.map": "/emoji-changer/static/js/453.401c3195.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5cd5c72.css",
+    "static/js/main.dedddf9b.js"
+  ]
+}
